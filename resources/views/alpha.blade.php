@@ -7,6 +7,6 @@
     </head>
     <body>
         <h1>This is the Alpha page</h1>
-        <a href="/beta">Next</a>
+        <a href="/betas">Next</a>
     </body>
 </html>
