@@ -42,3 +42,7 @@ blocks:
             - 'php artisan dusk:chrome-driver 79'
             - php artisan serve --env=.env.dusk.local --port=8010 &
             - php artisan dusk
+      agent:
+        machine:
+          type: e1-standard-2
+          os_image: ubuntu1804
